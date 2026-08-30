@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Standard 1-bit Full Adder enhanced with Ad-Hoc Design for Testability (DFT), using two Multiplexers (MUXes) to control and observe internal signals during chip testing.
 
 ## How to test
 
-Explain how to use your project
+Validating standard functional operation in System Mode (Select Mode = 0) and verifying internal node control/observation in Test Mode (Select Mode = 1).
 
 ## External hardware
 
